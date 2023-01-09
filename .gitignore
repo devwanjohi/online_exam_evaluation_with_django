@@ -1,0 +1,6 @@
+db.sqlite3
+myproject/__pycache__/
+onlinecourse/__pycache__/
+onlinecourse/migrations/0001_initial.py
+onlinecourse/migrations/__pycache__/
+static/media/course_images/django_hiVRphA.png
